@@ -1,5 +1,3 @@
-# Frontend Masters Workshop App
-
 This repo is for the workshop on "Building Modern Single-Page Web Applications" workshop at [Frontend Masters, June 2015](https://frontendmasters.com/workshops/web-apps/).
 
 **note:** the "master" branch contains the *completed* application. If you're just staring the video course you want to start with what's in the "start" branch. To do so, do this:
@@ -140,4 +138,3 @@ Honest feedback is golden. Please take a minute to say what you liked/what you d
 
 If you liked it maybe even tweet about it :) I'm [@HenrikJoreteg](http://twitter.com/henrikjoreteg) on twitter. 
 
-<3
